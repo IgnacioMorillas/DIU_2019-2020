@@ -64,7 +64,7 @@ Para más información sobre los personajes desarrollados [pulse aquí](https://
 >>>> SE deben incluir claramente los siguientes elementos
 >>> - Enlace al documento:  (sube a github el xls/pdf)
 >>> - Valoración final (numérica):
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> - Comentario sobre la valoración: En general la web cumple su función, tiene fallos que hace que la persona se canse rápido, y la estética de la interfaz tampoco es la mas adecuada. Es facil de usar, intuitivo y cómodo, el echo de encontrar eventos y crearlos es bastante facil.
 
 
 ## Paso 2. UX Design  
