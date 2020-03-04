@@ -62,8 +62,8 @@ Para más información sobre los personajes desarrollados [pulse aquí](https://
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf)
->>> - Valoración final (numérica):
+>>> - Enlace al documento: 
+>>> - Valoración final :64
 >>> - Comentario sobre la valoración: En general la web cumple su función, tiene fallos que hace que la persona se canse rápido, y la estética de la interfaz tampoco es la mas adecuada. Es facil de usar, intuitivo y cómodo, el echo de encontrar eventos y crearlos es bastante facil.
 
 
