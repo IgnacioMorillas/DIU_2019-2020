@@ -10,7 +10,8 @@ Descripción:
 Logotipo:
 
 Miembros
- * :bust_in_silhouette:   https://github.com/salva12345678/DIU     :octocat:     
+ * :bust_in_silhouette:   https://github.com/salva12345678/DIU     :octocat:    
+ * :bust_in_silhouette:   https://github.com/IgnacioMorillas/DIU_2019-2020     :octocat: 
 
 -----
 
@@ -33,7 +34,7 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 >>> Entre las aplicaciones y páginas web que hemos visto las que más se adaptan mejor a una experiencia de ocio son [Meetup-Language](https://www.meetup.com/es-ES/find/language/) y [Hi uTandem](https://www.facebook.com/Hiutandemapp/).Entre estas dos se ha elegido [Meetup-Language](https://www.meetup.com/es-ES/find/language/) dado que está disponible en Android y no muestra problemas "graves".
 
-Para más información sobre las otras plataformas  en el Análisis de la Competencia [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P1)
+Para más información sobre las otras plataformas  en el Análisis de la Competencia [pulse aquí](https://github.com/IgnacioMorillas/DIU_2019-2020/tree/master/P1)
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
@@ -48,7 +49,7 @@ Para más información sobre las otras plataformas  en el Análisis de la Compet
 
 ![foto2](img/NOEL1.png)
 
-Para más información sobre los personajes desarrollados [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P1)
+Para más información sobre los personajes desarrollados [pulse aquí](https://github.com/IgnacioMorillas/DIU_2019-2020/tree/master/P1)
 
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
