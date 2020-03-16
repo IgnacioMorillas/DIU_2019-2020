@@ -31,54 +31,54 @@ angular.module("angular", [])
 
 				Id: 0,
 				Name: "Manuel Molina Muñoz",
-                Photo: "hombre1.jpeg",
+                Photo: "NIÑO1.jpeg",
 
                 /*** PASO #1: INSPIRACION ***/
-                goal1: "La profesora de ingles le ha recomendado para mejorar pronunciación y afinar el oido.",
-                touch1: "Profesora(Conversación)",
-                feel1: "2",
-                con1: "Buscar una alternativa para mejorar lo ve como algo desconocido y novedoso y al principio lo ve con inseguridad.",
+                goal1: "Buscar una alternativa para mejorar su ingles",
+                touch1: "Amigo",
+                feel1: "3",
+                con1: "No tiene  dinero para pagarse una academia de idiomas.",
                 ima1: "cartoon-speaking.png",
 
                 /*** PASO #2: DECICION ***/
-                goal2: "Busca en internet recomendaciones de la profesora y encuentra una varias página que le llama la atención. ",
+                goal2: "Busca en internet una página gratuita para aprender. ",
                 touch2: "ordenador",
-                feel2: "3",
-                con2: "Hay demasiada información sobre demasiadas páginas web y aplicaciones para movil y eso le extresa facilmente.",
-                ima2: "cartoon-PCangry.png",
+                feel2: "4",
+                con2: "Hay demasiada información sobre demasiadas páginas web por lo que se decanta por la recomendación de su amigo.",
+                ima2: "cartoon-PChard.png",
 
                 /*** PASO #3: ACTUA ***/
 
-                goal3: "Finalmente encuentra una página que le convence y que además vee que hay gente de su edad.",
+                goal3: "Ver lo que oferta.",
                 touch3: "Ordenador",
-                feel3: "2",
-                con3: "Observa que no hay en este momento en su ciudad ningún grupo para quedar y hablar en ingles",
+                feel3: "3",
+                con3: "Encuentra la pagina y se registra, pero se le cambia el idioma y no encuentra el lugar donde cambiarlo.",
                 ima3: "cartoon-PChappy.png",
 
                 /*** PASO #4: OBSERVA ***/
 
-                goal4: "Observa que en la página web el mismo puede crear un grupo y que la gente puede unirse a el",
+                goal4: " Cambiar el idioma al español",
                 touch4: "Ordenador",
-                feel4: "4",
-                con4: "El espera que desde el momento en el que ha creado el grupo en la página se una  bastante gente y sin embargo solo se unen dos personas ",
-                ima4: "cartoon-PCtyping.png",
+                feel4: "2",
+                con4: "Al no encontrar el idioma intenta buscar ayuda en la página web",
+                ima4: "cartoon-PCangry.png",
 
                  /*** PASO #5: ANALIZA ***/
 
-                goal5: "Ve que existe la versión en aplicación y la usa para cuando vaya a esa 'reunión'. ",
-                touch5: "móvil (aplicación)",
-                feel5: "4",
-                con5: "Le parece más intutiva la página web además de que la gente no se pone en acuerdo en el lugar de reunión.",
-                ima5: "cartoon-phone.png",
+                goal5: "Pedir ayuda en el servicio técnico. ",
+                touch5: "Ordenador",
+                feel5: "1",
+                con5: "La página no dispone ni de un correo electrónico y solo hay un chat de ayuda que responde solo en ingles pasado un tiempo.",
+                ima5: "cartoon-phoneAssistan.jpg",
 
 
                 /*** PASO #6: CONCLUSION ***/
 
-                goal6: "Consigue poner en acuerdo al grupo en el lugar acordado",
-                touch6: "móvil (aplicación)",
-                feel6: "5",
-                con6: "A pesar de poner a todo el mundo en acuerdo,el llegará tarde",
-                ima6: "cartoon-resting.png",
+                goal6: "Pedir ayuda a su amigo",
+                touch6: "Ordenador",
+                feel6: "3",
+                con6: "Le pide ayuda a su amigo para que le cambie el idioma y le ayude a comprender la página",
+                ima6: "cartoon-shaking.png",
 
 			},
 			{
@@ -92,51 +92,51 @@ angular.module("angular", [])
                 Photo: "mujer1.jpeg",
 
 				 /*** PASO #1: INSPIRACION ***/
-                goal1: "Quiere que sus hijas aprendan más idiomas además de que ella puede aprovechar el mismo objetivo.",
-                touch1: "Agenda",
-                feel1: "2",
-                con1: "No tiene tiempo de apuntarse a una academia y las que encuentra tiene un precio elevado.",
-                ima1: "cartoon-thinking.png",
+                goal1: "Mejorar su pronunciación y vocabulario.",
+                touch1: "Profesora de academia",
+                feel1: "3",
+                con1: "La profesora le recomienda que para mejorar le es necesario mantener conversaciones.",
+                ima1: "cartoon-speaking.png",
 
                 /*** PASO #2: DECICION ***/
-                goal2: "Le cuenta el problema a un compañero de trabajo y el recomienda que use muchas de las web que hay para idiomas ",
+                goal2: "Bucar gente con la que mantener conversaciones.",
                 touch2: "Conversación(compañero de trabajo).",
-                feel2: "4",
-                con2: "Se agobia al ver tantas página web dedicadas a los idiomas y que les muestra demasiada información.",
+                feel2: "3",
+                con2: "Consulta recomendaciones de distintas paginas, y se decide por meeting que aparentemente tiene bastante movimiento.",
                 ima2: "cartoon-PChard.png",
 
                 /*** PASO #3: ACTUA ***/
 
-                goal3: "Encuentra una página que le llama la atención y que puede ser la apropiada ",
+                goal3: "Encuentra un evento en el cual está interesada.",
                 touch3: "Ordenador",
-                feel3: "3",
-                con3: "Piensa que está perdiendo el tiempo y que no tendrá tiempo para esto.",
-                ima3: "cartoon-phoningangry.png",
+                feel3: "4",
+                con3: "Ve una quedada con gente nativa de ingles, en una sala cercana a la playa.",
+                ima3: "cartoon-PCSurprised.png",
 
                 /*** PASO #4: OBSERVA ***/
 
-                goal4: "A los dias vuelve a probar con la página y observa que se van a reunir en un bar cercano.",
+                goal4: "Evitar que sepan que va.",
                 touch4: "Ordenador.",
-                feel4: "4",
-                con4: "Le preocupa que sus hijas no puedan ir a la reunión.",
-                ima4: "cartoon-deciding.png",
+                feel4: "2",
+                con4: "Ve que su exmarido se ha inscrito al mismo eventoy ella tenia pensado dejarle los niños ese finde, diciendole que tenia trabajo.",
+                ima4: "cartoon-PCcrying.png",
 
                  /*** PASO #5: ANALIZA ***/
 
-                goal5: "Las personas que forman el grupo le dicen que no hay problema con sus hijas y que pueden asistir ",
+                goal5: "Buscar una manera de que no sepan que es ella.",
                 touch5: "Ordenador.",
-                feel5: "5",
-                con5: "Se ve insegura al volver empezar a hablar otro idioma.",
-                ima5: "cartoon-phone-sitting.png",
+                feel5: "4",
+                con5: "Busca algún tipo de modo oculto, por lo que cambia su foto por otra y de nombre se pone el noombre de pila .",
+                ima5: "cartoon-PChappy.png",
 
 
                 /*** PASO #6: CONCLUSION ***/
 
-                goal6: "Al final su jefe le cambia el turno en el ultimo momento y no puede asistir",
+                goal6: "Asiste a la reunión.",
                 touch6: "Ordenador.",
-                feel6: "1",
-                con6: "Tendrá que quedar otro dia para poder con al gente de la aplicación",
-                ima6: "cartoon-speaking.png",
+                feel6: "2",
+                con6: "El exmarido se da cuenta del nombre de pila y la llama por telefono",
+                ima6: "cartoon-talking.png",
 
 
 
