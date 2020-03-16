@@ -10,9 +10,8 @@ Descripción:
 Logotipo:
 
 Miembros
- * :bust_in_silhouette:   https://github.com/salva12345678/DIU     :octocat:    
- * :bust_in_silhouette:   https://github.com/IgnacioMorillas/DIU_2019-2020     :octocat: 
-
+ * :bust_in_silhouette:   https://github.com/salva12345678/DIU     :octocat:     
+ * :bust_in_silhouette:   https://github.com/IgnacioMorillas/DIU_2019-2020     :octocat:   
 -----
 
 En esta práctica estudiaremos un caso de plataforma de economía colaborativa y realizaremos una propuesta para su diseño Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist)
@@ -20,7 +19,7 @@ En esta práctica estudiaremos un caso de plataforma de economía colaborativa y
 
 Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del consumo colaborativo: del intercambio de bienes y servicios a la economía de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
 
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online.
+>>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online.En general la web cumple su función, tiene fallos que hace que la persona se canse rápido, y la estética de la interfaz tampoco es la mas adecuada. Es facil de usar, intuitivo y cómodo, el echo de encontrar eventos y crearlos es bastante facil.
 
 
 # Proceso de Diseño
@@ -34,41 +33,33 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 >>> Entre las aplicaciones y páginas web que hemos visto las que más se adaptan mejor a una experiencia de ocio son [Meetup-Language](https://www.meetup.com/es-ES/find/language/) y [Hi uTandem](https://www.facebook.com/Hiutandemapp/).Entre estas dos se ha elegido [Meetup-Language](https://www.meetup.com/es-ES/find/language/) dado que está disponible en Android y no muestra problemas "graves".
 
-Para más información sobre las otras plataformas  en el Análisis de la Competencia [pulse aquí](https://github.com/IgnacioMorillas/DIU_2019-2020/tree/master/P1)
+Para más información sobre las otras plataformas  en el Análisis de la Competencia [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P1)
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+>>>En primer lugar hemos creado a [Manuel](https://github.com/salva12345678/DIU/tree/master/P1),Una persona con amplias capacidades pero con poca iniciativa en el mundo de las redes sociales y en este sentido Manuel se plantea como un colectivo de la plataforma pues uno de sus retos ya sea por trabajo u ocio le hacen usar esta aplicación.
 
->>>En primer lugar hemos creado a Manuel, una persona con amplias capacidades pero con poca iniciativa en el mundo de las redes sociales y en este sentido Manuel se plantea como un colectivo de la plataforma pues uno de sus retos ya sea por trabajo u ocio le hacen usar esta aplicación.
-
-![foto1](img/MANU1.png)
-
->>>Por último, también hemos creado a Noelia, la cual es una persona bastante tímida, y que además no está iniciada en el mundo de estas nuevas plataformas por lo tanto le es difícil hacer esta tarea además de que sus circunstancias familiares no la da mucho margen de tiempo libre.
-
-![foto2](img/NOEL1.png)
-
-Para más información sobre los personajes desarrollados [pulse aquí](https://github.com/IgnacioMorillas/DIU_2019-2020/tree/master/P1)
+>>>Por último, también hemos creado a [Noelia](https://github.com/salva12345678/DIU/tree/master/P1), Es cual es una persona bastante tímida, y que además no está iniciada en el mundo de estas nuevas plataformas por lo tanto le es difícil hacer esta tarea además de que sus circunstancias familiares no la da mucho margen de tiempo libre.
 
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres)
+>>> [El problema de Manuel con el ingles](https://github.com/salva12345678/DIU/tree/master/P1).
 
+>>> [Encuentro por sorpresa con su ex](https://github.com/salva12345678/DIU/tree/master/P1).
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento: 
-[PDF](https://github.com/IgnacioMorillas/DIU_2019-2020/blob/master/P1/DIU-P1Valoraci%C3%B3n%20Usabilidad.pdf)
-[xlsx](https://github.com/IgnacioMorillas/DIU_2019-2020/blob/master/P1/DIU-P1.xlsx)
 
+>>> - Enlace al documento:
+      Para ver el PDF [pulse aquí](https://github.com/salva12345678/DIU/blob/master/P1/Usability-review.pdf)
 
->>> - Valoración final :64
->>> - Comentario sobre la valoración: En general la web cumple su función, tiene fallos que hace que la persona se canse rápido, y la estética de la interfaz tampoco es la mas adecuada. Es facil de usar, intuitivo y cómodo, el echo de encontrar eventos y crearlos es bastante facil.
+>>> - Valoración final:64
+>>> - Comentario sobre la valoración:En general la web cumple con las principales características y metas que se persiguen.La información que se muestra es precisa y no es redundante.Los resultados de las búsquedas son relevante y precisas.El rendimiento de la página es excelente.Existen otros aspectos que no han sido muy gratificantes.Las funciones de volver atrás fallaban y te llevaba a una pantalla en blanco.En la página hay marcadores que están descuadrados.La ubicación actual no está clara .La búsqueda por parámetros múltiples es bastante pobre.No hay búsquedas comunes sino que ya están definidas.Los usuarios no pueden enviar comentario,no hay correo de la empresa y solo hay un chat de ayuda.
+
+Para más información [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P1)
 
 
 ## Paso 2. UX Design  
