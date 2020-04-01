@@ -33,33 +33,33 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 >>> Entre las aplicaciones y páginas web que hemos visto las que más se adaptan mejor a una experiencia de ocio son [Meetup-Language](https://www.meetup.com/es-ES/find/language/) y [Hi uTandem](https://www.facebook.com/Hiutandemapp/).Entre estas dos se ha elegido [Meetup-Language](https://www.meetup.com/es-ES/find/language/) dado que está disponible en Android y no muestra problemas "graves".
 
-Para más información sobre las otras plataformas  en el Análisis de la Competencia [pulse aquí](https://github.com/IgnacioMorillas/DIU_2019-2020/tree/master/P1)
+Para más información sobre las otras plataformas  en el Análisis de la Competencia [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P1)
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>>En primer lugar hemos creado a [Manuel](https://github.com/IgnacioMorillas/DIU_2019-2020/tree/master/P1),Una persona con amplias capacidades pero con poca iniciativa en el mundo de las redes sociales y en este sentido Manuel se plantea como un colectivo de la plataforma pues uno de sus retos ya sea por trabajo u ocio le hacen usar esta aplicación.
+>>>En primer lugar hemos creado a [Manuel](https://github.com/salva12345678/DIU/tree/master/P1),Una persona con amplias capacidades pero con poca iniciativa en el mundo de las redes sociales y en este sentido Manuel se plantea como un colectivo de la plataforma pues uno de sus retos ya sea por trabajo u ocio le hacen usar esta aplicación.
 
->>>Por último, también hemos creado a [Noelia](https://github.com/IgnacioMorillas/DIU_2019-2020/tree/master/P1), Es cual es una persona bastante tímida, y que además no está iniciada en el mundo de estas nuevas plataformas por lo tanto le es difícil hacer esta tarea además de que sus circunstancias familiares no la da mucho margen de tiempo libre.
+>>>Por último, también hemos creado a [Noelia](https://github.com/salva12345678/DIU/tree/master/P1), Es cual es una persona bastante tímida, y que además no está iniciada en el mundo de estas nuevas plataformas por lo tanto le es difícil hacer esta tarea además de que sus circunstancias familiares no la da mucho margen de tiempo libre.
 
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
->>> [El problema de Manuel con el ingles](https://github.com/IgnacioMorillas/DIU_2019-2020/tree/master/P1).
+>>> [El problema de Manuel con el ingles](https://github.com/salva12345678/DIU/tree/master/P1).
 
->>> [Encuentro por sorpresa con su ex](https://github.com/IgnacioMorillas/DIU_2019-2020/tree/master/P1).
+>>> [Encuentro por sorpresa con su ex](https://github.com/salva12345678/DIU/tree/master/P1).
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 
 >>> - Enlace al documento:
-      Para ver el PDF [pulse aquí](https://github.com/IgnacioMorillas/DIU_2019-2020/blob/master/P1/Usability-review.pdf)
+      Para ver el PDF [pulse aquí](https://github.com/salva12345678/DIU/blob/master/P1/Usability-review.pdf)
 
 >>> - Valoración final:64
 >>> - Comentario sobre la valoración:En general la web cumple con las principales características y metas que se persiguen.La información que se muestra es precisa y no es redundante.Los resultados de las búsquedas son relevante y precisas.El rendimiento de la página es excelente.Existen otros aspectos que no han sido muy gratificantes.Las funciones de volver atrás fallaban y te llevaba a una pantalla en blanco.En la página hay marcadores que están descuadrados.La ubicación actual no está clara .La búsqueda por parámetros múltiples es bastante pobre.No hay búsquedas comunes sino que ya están definidas.Los usuarios no pueden enviar comentario,no hay correo de la empresa y solo hay un chat de ayuda.
 
-Para más información [pulse aquí](https://github.com/IgnacioMorillas/DIU_2019-2020/tree/master/P1)
+Para más información [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P1)
 
 
 ## Paso 2. UX Design  
@@ -68,43 +68,36 @@ Para más información [pulse aquí](https://github.com/IgnacioMorillas/DIU_2019
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
+En la malla receptora de información que hemos recopilado teniendo en cuenta las buenas características de la web que analizamos en la practica 1,las dificultades que encontraron nuestros usuarios que gracias a ese punto de vista vimos que podían mejorarse y algunas sugerencias para implementar nuevas funcionalidades,llevar a cabo una crítica constructiva centrándonos en los errores críticos que hemos analizado e ideas aportadas por los desarrolladores donde se corregirían funcionalidades y aportar propuestas de valor como es el sistema de bonificación por la asistencia de los eventos en el ámbito de los idiomas ademas de buscar una simbiosis entre los tres protagonistas principales como el usuario,el profesional y el establecimiento para que se beneficien y cooperen.    
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
+Para ver la malla receptora de información [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P2)
 
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-
-
-
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap
 -----
 
->>> Definir "User Map" y "Task Flow" ...
+Entre las dos posibilidades nos hemos decidido por por hacer la matriz de tareas para analizar los usuarios que van a usar la aplicación y las tareas principales para poder analizar la frecuencia de uso de las acciones y así poder situar las funcionalidades en la aplicación. Para todo esto se hará un ranking de estas funcionalidades pero también viendo otros aspectos ya que habrá algunas funcionalidades que solo usará uno de los tantos tipos de usuarios que hay.
 
+Para ver la matriz de usuario y tareas [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P2)
 
 ![Método UX](img/labelling.png) 2.c Labelling
 ----
 
+Para una mayor comodidad se ha creado una jerarquía principal para tener una vista principal y  luego poder analizar cada sector por separado.
 
->>> Identificar términos para diálogo con usuario  
+![Método UX](img/jerarquia_1.png)
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+Para ver los diagramas y su correspondiente explicación [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P2)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación )
+Para esta parte hemos desarrollado una serie de bocetos sobre las distintas partes de la interfaz.Para tener una mayor organización y podamos entender el flujo que sigue se hará un diagrama de flujo de los bocetos.
 
+![Método UX](img/diagrama.png)
+
+Para ver los bocetos de la interfaz [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P2)
 
 ## Paso 3. Make (Prototyping)
 
