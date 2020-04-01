@@ -102,13 +102,13 @@ Término | Icono | Significado
 |  Extensión panel lateral  | ![Método UX](img/foto_5.png) | Se acceden a funcionalidades más específicas, acceso a perfil, ajustes, Promociones, establecimientos, Premium, servicio Premium. |
 |  Formulario de sugerencias  |  | Formulario que puede ser rellenado para hacer llegar cualquier posible error en la web a los desarrolladores. |
 |  Grupos  | ![Método UX](img/foto_6.png) | En este apartado aparecerán, en función de su última actividad, los distintos grupos a los que perteneces acompañado de su foto de grupo, y la información que quiere hacer llegar los administradores del grupo, además del anuncio de actividades nuevas propuestas.|
-|  Hazte premium  | ![Método UX](img/foto_25.png) |  Hacer tu perfil premium, para acceder a sus ventajas:plazas específicas para usuarios premium en actividades,grupos y actividades exclusivos,No pagues por asistencia a actividades.|
+|  Hazte premium  | ![Método UX](img/foto_25.png) |  Para los usuaro general, posibilidad de hacer tu perfil premium, para acceder a sus ventajas:plazas específicas para usuarios premium en actividades,grupos y actividades exclusivos,No pagues por asistencia a actividades.|
 |  Gratuito  |  | La otra opción es que sea un usuario normal pero dentro de la aplicación puede hacerse premium. |
 |  Idioma  | ![Método UX](img/foto_33.png) | Nos da la opción de elegir el idioma que queremos |
 |  Iniciar Sesión  | ![Método UX](img/foto_13.png) | Tras meter los datos del nombre de cuenta y contraseña accederá a la aplicación.|
 |  Lista mensajes  |  | Acceso a nuestro buzón de entrada y donde redactar nuestros correos.                                                |
-|  Mis establecimientos  | ![Método UX](img/foto_30.png) | Puedes hacer un seguimiento de tus establecimientos, actividad en ellos, solicitudes recibidas en ellos por parte de otros usuarios.|
-|  Mis promociones  | ![Método UX](img/foto_28.png) | Mis promociones ofertadas en este momento. |
+|  Mis establecimientos  | ![Método UX](img/foto_30.png) | Acceso solo para los Usuarios del tipo "establecimiento" donde pueden consultar sus establecimientos, su actividad, disponibilidad, rendimientos, y quitar un estalecimientos y solicitudes realizadas por parte de los usuarios y profesionales.|
+|  Mis promociones  | ![Método UX](img/foto_28.png) | Acceso solo para los usuarios de tipo "Profesional", en ellos pueden ver sus promociones ofertadas, elminar su promoción y las solicitudes recibidas por el resto de usuarios indiferente de su rol. |
 |  Modo nocturno  | ![Método UX](img/foto_40.png) | Para comodidad del usuario se le da opción de usar el modo oscuro. |
 |  Monedero  | ![Método UX](img/foto_31.png) | Consulta del dinero disponible. |
 |  Notificaciones  | ![Método UX](img/foto_24.png) | Novedades en el sitio, novedades en la aplicación, perfil, aviso de notificaciones personalizadas. |
