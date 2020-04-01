@@ -65,6 +65,9 @@ Las ideas vamos a implementar, es que queremos que los grupos prevalezcan en el 
 La leyenda correspondiente a la jerarquia para diferenciar correctamente a quien corresponde las funcionalidades
 ![Método UX](img/Leyenda.PNG)
 
+Principal
+![Método UX](img/jerarquia_1.png)
+
 Empezamos por la jerarquía de la extensión de la aplicación.
 
 ![Método UX](img/jerarquia_2.png)
