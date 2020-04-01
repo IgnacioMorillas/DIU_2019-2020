@@ -62,6 +62,9 @@ Las ideas vamos a implementar, es que queremos que los grupos prevalezcan en el 
 
 - Labelling:Arquitectura De La Información.
 
+La leyenda correspondiente a la jerarquia para diferenciar correctamente a quien corresponde las funcionalidades
+![Método UX](img/Leyenda.PNG)
+
 Empezamos por la jerarquía de la extensión de la aplicación.
 
 ![Método UX](img/jerarquia_2.png)
