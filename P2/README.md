@@ -20,6 +20,12 @@
   | 7.Un modo nocturno nocturno.                                         | 7.Un monedero para el saldo.                      |
   | 8.Un modo de realidad virtual  poder quedar con el grupo desde casa. |                                                   |
 
+La aplicación movil a desarollar trata de una plataforma que permite la organización de actividades en grupo que promueven la utilización de lenguas extranejeras. La plataforma pondrá en contacto a las diferentes partes: Usuarios, profesionales y establecimientos, para una mayor facilidad de organización.
+Los usuarios tendrán la ventaja de poder realizar estas actividades a costo compartido.
+Los profesionales podrán obtener beneficio de impartir un trabajo en estás actividades.
+Los establecimientos podrán ofrecer a cambio de unos beneficios, consumo o lo que vea conveniente, sus establecimientos para la realización de la actividad. 
+
+Las ideas vamos a implementar, es que queremos que los grupos prevalezcan en el tiempo ya que queremos crear vinculos entre los integrantes. Un calendario en el que podamos ver de forma mas visual las actividaes inscritos. Implementación de bonos o promociones para los usuarios. Un modopremium que te libre de ciertos pagos y acceso a contenido exclusivo. Un monedero para llevar un control de tus gastos.
 
 - User/task matrix​: Matriz De Tareas y Usuarios.
 
