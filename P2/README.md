@@ -9,8 +9,7 @@
   | 3.Un buscador por calendario.                                        | 3.Poca coherencia entre secciones.                |
   | 4.La página orienta a los usuarios a que hacer primero.              | 4.Mantener la coherencia del idioma.              |
 
-  | Preguntas                                                            | Nuevas ideas                                      |
-  | :------:                                                             | :------:                                          |
+  | __Preguntas__                                                            | __Nuevas ideas__                                      |
   | 1.Se le cambió el idioma tras su registro                            | 1.funcionalidades adaptadas al tipo de usuario.   |
   | 2.Poner claro donde está el servicio técnico.                        | 2.Promociones por bonos o ventajas                |        
   | 3.Chat de ayuda en mi idioma.                                        | 3.Promoción por número de amigos traídos.         |
@@ -59,7 +58,7 @@ Las ideas vamos a implementar, es que queremos que los grupos prevalezcan en el 
 | Validar establecimiento.       | NO              |  NO                  |     NO          | Bajo               | NO                       | 1        |
 | Hacerte Premium.               | Bajo            |  NO                  |     NO          | NO                 | NO                       | 1        |
 | Registrarse.                   | NO              |  NO                  |     NO          | NO                 | Bajo                     | 1        |
-| Iniciar credenciales              | NO              |  NO                  |     NO          | NO                 | Bajo                     | 1        |
+| Introducir las credenciales       | NO              |  NO                  |     NO          | NO                 | Bajo                     | 1        |
 
 
 - Labelling:Arquitectura De La Información.
