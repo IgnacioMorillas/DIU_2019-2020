@@ -3,9 +3,12 @@ Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa)
 
 Grupo: DIU3.Learning.  Curso: 2019/20
 
-Proyecto:
+Proyecto: 
 
-Descripción:
+Descripción: La aplicación movil a desarollar trata de una plataforma que permite la organización de actividades en grupo que promueven la utilización de lenguas extranejeras. La plataforma pondrá en contacto a las diferentes partes: Usuarios, profesionales y establecimientos, para una mayor facilidad de organización.
+Los usuarios tendrán la ventaja de poder realizar estas actividades a costo compartido.
+Los profesionales podrán obtener beneficio de impartir un trabajo en estás actividades.
+Los establecimientos podrán ofrecer a cambio de unos beneficios, consumo o lo que vea conveniente, sus establecimientos para la realización física de la actividad. 
 
 Logotipo:
 
@@ -94,6 +97,7 @@ Para ver los diagramas y su correspondiente explicación [pulse aquí](https://g
 -----
 
 Para esta parte hemos desarrollado una serie de bocetos sobre las distintas partes de la interfaz.Para tener una mayor organización y podamos entender el flujo que sigue se hará un diagrama de flujo de los bocetos.
+Esta aplicación se ha desarollado de tal forma que se puede implementar tanto en android como en IOS.
 
 ![Método UX](img/diagrama.png)
 
