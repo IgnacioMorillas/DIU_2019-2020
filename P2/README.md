@@ -26,12 +26,12 @@ Los profesionales podrán obtener beneficio de impartir un trabajo en estás act
 Los establecimientos podrán ofrecer a cambio de unos beneficios, consumo o lo que vea conveniente, sus establecimientos para la realización física de la actividad. 
 
 Las ideas vamos a implementar: 
-    -Es que queremos que los grupos prevalezcan en el tiempo ya que queremos crear vinculos entre los integrantes. 
-    -Un calendario en el que podamos ver de forma mas visual las actividaes inscritos. 
-    -Implementación de bonos o promociones para los usuarios. 
-    -Un modopremium que te libre de ciertos pagos y acceso a contenido exclusivo. 
-    -Un monedero para llevar un control de tus gastos.
-    -Un modo oscuro.
+    - Es que queremos que los grupos prevalezcan en el tiempo ya que queremos crear vinculos entre los integrantes. 
+    - Un calendario en el que podamos ver de forma mas visual las actividaes inscritos. 
+    - Implementación de bonos o promociones para los usuarios. 
+    - Un modopremium que te libre de ciertos pagos y acceso a contenido exclusivo. 
+    - Un monedero para llevar un control de tus gastos.
+    - Un modo oscuro.
 
 - User/task matrix​: Matriz De Tareas y Usuarios.
 
