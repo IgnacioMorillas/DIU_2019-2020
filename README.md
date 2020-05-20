@@ -162,7 +162,7 @@ Los casos que se nos han asignado son los siguientes.
 |  DIU2         | Mumavi           | [pulse aquí](https://github.com/javiercdag/DIU20)     |                
 |  DIU3         | Lutece           | [pulse aquí](https://github.com/IvanitiX/DIU20)       |                 
 
-Para ver la valoración [pulse aquí](https://github.com/IgnacioMorillas/DIU/tree/master/P4)
+Para ver la valoración [pulse aquí](https://github.com/IgnacioMorillas/DIU_2019-2020/tree/master/P4)
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
@@ -174,7 +174,7 @@ Para ver la valoración [pulse aquí](https://github.com/IgnacioMorillas/DIU/tre
 
 3.En **CountWithMe, Manuel** encuentra un problema que le hace no asistir a un evento por falta de un recordatorio o calendario.
 
-Para ver las historias propuestas [pulse aquí](https://github.com/IgnacioMorillas/DIU/tree/master/P4)
+Para ver las historias propuestas [pulse aquí](https://github.com/IgnacioMorillas/DIU_2019-2020/tree/master/P4)
 
 
 ![Método UX](img/Survey.png). 4.c Ranking
@@ -188,4 +188,4 @@ Para ver las historias propuestas [pulse aquí](https://github.com/IgnacioMorill
 
 En general,los site map no siguen una estructura de cabeza ,cuerpo y pie para la aparición de las distintas funcionalidades,dichas funcionalidades aparecen incompletas, mal detallas .La Tasks matrix no concuerdan con lo aparecido en el site map  además de no aparecer las ideas destacadas .No se diferencian los roles de usuario.Los bocetos en general son bastante lo que tendrían el aspecto final.Los personajes deberían desarrollar más.No dan ideas de negocio en sus aplicaciones.
 
-Para ver la valoración personal [pulse aquí](https://github.com/IgnacioMorillas/DIU/tree/master/P4)
+Para ver la valoración personal [pulse aquí](https://github.com/IgnacioMorillas/DIU_2019-2020/tree/master/P4)
