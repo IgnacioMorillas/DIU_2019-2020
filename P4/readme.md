@@ -7,7 +7,7 @@ Grupo para describir y valorar [MMM](https://github.com/patchispatch/DIU20)
 
 Los chicos de Mmm ha diseñado un diseño UX basado en experiencias para compartir viaje llamado Nomadizers.La aplicación que nos propone no es solo una aplicación para hacer viajes en grupo sino una red para viajeros que nos es útil para conocer nuevos destinos y compartir nuevas experiencias.Ademas podrás apuntarte a viajes de otras personas ,publicar los tuyos y planificar escapadas con gente de tus mismo gustos , aficiones y la posibilidad de compartir tus experiencias y pensamientos con personas de tu alrededor.  
 
-A partir de la hoja de valoración tiene una puntuación de 56 puntos ,para visualizarla [pulse aquí](https://github.com/salva12345678/DIU/blob/master/P4/DIU1.MMM.xls)
+A partir de la hoja de valoración tiene una puntuación de 56 puntos ,para visualizarla [pulse aquí](https://github.com/IgnacioMorillas/DIU/blob/master/P4/DIU1.MMM.xls)
 
 Los puntos fuertes de la practica son:
 
@@ -29,7 +29,7 @@ Grupo para describir y valorar [Mumavi](https://github.com/javiercdag/DIU20)
 
 Los chicos de Mumavi ha diseñado un diseño UX basado en experiencias para compartir alojamiento llamado FHome.Una aplicación para buscar o compartir piso a través de técnicas de inteligencia artificial.
 
-A partir de la hoja de valoración tiene una puntuación de 70 puntos ,para visualizarla [pulse aquí](https://github.com/salva12345678/DIU/blob/master/P4/DIU2.Mumavi.xls)
+A partir de la hoja de valoración tiene una puntuación de 70 puntos ,para visualizarla [pulse aquí](https://github.com/IgnacioMorillas/DIU/blob/master/P4/DIU2.Mumavi.xls)
 
 
 Los puntos fuertes de la practica son:
@@ -66,7 +66,7 @@ Los puntos débiles de la practica son:
 	Site map:No está estructurado en los elementos pie,cabeza y cuerpo. No están diferenciado los dos roles en el sitemap. Faltaría una leyenda para saber que son las líneas continuas o discontínuas. Faltan funcionalidades .Las funcionalidades de publicitarse no están definidas en ningún apartado. La búsqueda no aparece  y era considerado un objetivo fundamental en su diseño. No aparecen los grupos como tal. No aparecen funcionalidades del task(Consultar notificaciones).
 
 
- A partir de la hoja de valoración tiene una puntuación de 65 puntos ,para visualizarla [pulse aquí](https://github.com/salva12345678/DIU/blob/master/P4/DIU3.Lutece.xls)
+ A partir de la hoja de valoración tiene una puntuación de 65 puntos ,para visualizarla [pulse aquí](https://github.com/IgnacioMorillas/DIU/blob/master/P4/DIU3.Lutece.xls)
 
 ## User Testing
 
