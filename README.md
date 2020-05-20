@@ -152,42 +152,40 @@ Para más información [pulse aquí](https://github.com/IgnacioMorillas/DIU_2019
 ## Paso 4. Evaluación
 
 
-![Método UX](img/ABtesting.png) 4.a Casos asignados
-----
+![Método UX](img/ABtesting.png)
 
+Los casos que se nos han asignado son los siguientes.
 
->>> Descripción de las asignaciones (3 UX Case Study) y enlace a  sus repositorios.
+|  Grupo de DIU | Grupo Asignado   | Link para ver su GitHub                               |  
+|  ------------ | -------          | -------                                               |
+|  DIU1         | MMM              | [pulse aquí](https://github.com/patchispatch/DIU20)   |         
+|  DIU2         | Mumavi           | [pulse aquí](https://github.com/javiercdag/DIU20)     |                
+|  DIU3         | Lutece           | [pulse aquí](https://github.com/IvanitiX/DIU20)       |                 
 
->>>> En la seccioón P4/readme.md se debe acceder además a sus respectivas hojas de evaluación y conclusiones
+Para ver la valoración [pulse aquí](https://github.com/IgnacioMorillas/DIU/tree/master/P4)
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione a una de sus personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas
+1.En **Nomadizers, Noelia** ha encontrado un problema en la no existencia de métodos de pago.
+
+2.En **FHome, Noelia** ha encontrado un problema en el que aquellas personas que solo quieren ofertar un habitación.
+
+3.En **CountWithMe, Manuel** encuentra un problema que le hace no asistir a un evento por falta de un recordatorio o calendario.
+
+Para ver las historias propuestas [pulse aquí](https://github.com/IgnacioMorillas/DIU/tree/master/P4)
 
 
 ![Método UX](img/Survey.png). 4.c Ranking
 ----
 
->>> Concluya con un ranking de los casos evaluados
+|Posición|  Grupo de DIU | Grupo Asignado   | Puntuación   |  
+|-----   |  ------------ | -------          | -------      |
+|1       |  DIU2         | Mumavi           | 70           |
+|2       |  DIU3         | Lutece           | 65           |
+|3       |  DIU1         | MMM              | 56           |   
 
->>> Valoración personal
+En general,los site map no siguen una estructura de cabeza ,cuerpo y pie para la aparición de las distintas funcionalidades,dichas funcionalidades aparecen incompletas, mal detallas .La Tasks matrix no concuerdan con lo aparecido en el site map  además de no aparecer las ideas destacadas .No se diferencian los roles de usuario.Los bocetos en general son bastante lo que tendrían el aspecto final.Los personajes deberían desarrollar más.No dan ideas de negocio en sus aplicaciones.
 
-
-## Paso 5. Evaluación de Accesibilidad  
-
-
-![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report
-----
-
->>> Indica qué pretendes evaluar (de accesibilidad) y qué resultados has obtenido + Valoración personal
-
->>> Evaluación de la Accesibilidad (con simuladores o verificación de WACG)
-
-
-
-## Conclusión final / Valoración de las prácticas
-
-
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+Para ver la valoración personal [pulse aquí](https://github.com/IgnacioMorillas/DIU/tree/master/P4)
