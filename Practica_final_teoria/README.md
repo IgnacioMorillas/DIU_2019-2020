@@ -3,7 +3,7 @@ Teoría de Diseño Interfaces de Usuario 2019-20 (Coworking)
 
 Curso: 2019/20
 
-Proyecto:" XXXXX ".
+Proyecto:" COOTRABAJA ".
 
 Descripción:" XXXXX " es una aplicación móvil a desarrollar diseña para encontrar un espacio de trabajo donde puedas desarrollar tu actividad profesional. La idea es la de facilitar al usuario(autonomo, emprendedor, trabajador,etc) lugares de espacio para desarrolar su actividad sin problema de permanencia de cierto tiempo, como un alquiler de una oficina, tampoco tendrá problema de equipamiento ya que se le facilitan en dichos establoecimientos. Otra ventaja es la de poder ir a distintas instalaciones situadas en lugares distintos lo que le sirve para cambiar de aire, ademas de al compartir entorno con otros profesionales potencia el surgimineto de nuevas ideas y ideas de negocio ya que no están penados para un unico perfil profesional. queremops promober la interacción entre los profesionales presentes.
 
@@ -17,7 +17,7 @@ Las ideas vamos a diseñar o redefinir de las páginas anteriores:
 
     -Lista de profesionales, catalogadas por area proesional para busqueda de gente con la que trabajar o se necesite de su servicio.
 
-Logotipo:![Método UX](img/fotologo.png)
+Logotipo:![Método UX](https://github.com/IgnacioMorillas/DIU_2019-2020/blob/master/img/loogojeje.PNG)
 
 Miembros
  * :bust_in_silhouette:   https://github.com/IgnacioMorillas/DIU_2019-2020/tree/master/Practica_final_teoria     :octocat:   
@@ -151,7 +151,7 @@ Para esta parte hubiesemos desarrollado una serie de bocetos sobre las distintas
 
 El logotipo final para este proyecto se ha elegido el siguiente creado con (https://www.brandcrowd.com/maker):
 
-![Método UX](https://github.com/IgnacioMorillas/DIU_2019-2020/blob/master/img/descargalogo.png)
+![Método UX](https://github.com/IgnacioMorillas/DIU_2019-2020/blob/master/img/loogojeje.PNG)
 
 
 
