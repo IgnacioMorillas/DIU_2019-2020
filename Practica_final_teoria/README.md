@@ -17,7 +17,7 @@ Las ideas vamos a diseñar o redefinir de las páginas anteriores:
 
     -Lista de profesionales, catalogadas por area proesional para busqueda de gente con la que trabajar o se necesite de su servicio.
 
-Logotipo:![Método UX](https://github.com/IgnacioMorillas/DIU_2019-2020/img/fotologo.png)
+Logotipo:![Método UX](img/fotologo.png)
 
 Miembros
  * :bust_in_silhouette:   https://github.com/IgnacioMorillas/DIU_2019-2020/tree/master/Practica_final_teoria     :octocat:   
@@ -56,7 +56,7 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 Entre las aplicaciones y páginas web que hemos visto las que más se adaptan mejor a mi idea es [ErrantT](https://www.errant.es/es/), ya que dispone de mas oficinas y ya traen un equipamiento base y su uso va por tarifa de jornadas por lo que lo ahce un lugar ocasional.
 
-![Método UX](https://github.com/IgnacioMorillas/DIU_2019-2020/img/Persona.png) 1.b Persona
+![Método UX](./DIU/DIU_2019-2020/img/Persona.png) 1.b Persona
 -----
 
 >>>Por último, también hemos creado a [Noelia](https://github.com/IgnacioMorillas/DIU_2019-2020/P1), Es cual es una persona bastante tímida, y que además no está iniciada en el mundo de estas nuevas plataformas por lo tanto le es difícil hacer esta tarea además de que sus circunstancias familiares no la da mucho margen de tiempo libre.
