@@ -17,7 +17,7 @@ Las ideas vamos a diseñar o redefinir de las páginas anteriores:
 
     -Lista de profesionales, catalogadas por area proesional para busqueda de gente con la que trabajar o se necesite de su servicio.
 
-Logotipo:![Método UX](img/fotologo.png)
+Logotipo:![Método UX](https://github.com/IgnacioMorillas/DIU_2019-2020/img/fotologo.png)
 
 Miembros
  * :bust_in_silhouette:   https://github.com/IgnacioMorillas/DIU_2019-2020/tree/master/Practica_final_teoria     :octocat:   
