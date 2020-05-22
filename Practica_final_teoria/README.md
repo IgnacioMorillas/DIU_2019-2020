@@ -74,13 +74,11 @@ Entre las aplicaciones y páginas web que hemos visto las que más se adaptan me
 ----
 
 >>> - Enlace al documento:
-      Para ver el PDF [pulse aquí](https://github.com/IgnacioMorillas/DIU_2019-2020/blob/master/P1/Usability-review.pdf)
+      Para ver el Documento xlsx [pulse aquí](https://github.com/IgnacioMorillas/DIU_2019-2020/blob/master/Practica_final_teoria/DIU-teoria.xlsx)
+      Para ver el PDF [pulse aquí](https://github.com/IgnacioMorillas/DIU_2019-2020/blob/master/Practica_final_teoria/DIU-teoria.pdf)
 
->>> - Valoración final de Meetup:64
->>> - Comentario sobre la valoración:En general la web cumple con las principales características y metas que se persiguen.La información que se muestra es precisa y no es redundante.Los resultados de las búsquedas son relevante y precisas.El rendimiento de la página es excelente.Existen otros aspectos que no han sido muy gratificantes.Las funciones de volver atrás fallaban y te llevaba a una pantalla en blanco.En la página hay marcadores que están descuadrados.La ubicación actual no está clara .La búsqueda por parámetros múltiples es bastante pobre.No hay búsquedas comunes sino que ya están definidas.Los usuarios no pueden enviar comentario,no hay correo de la empresa y solo hay un chat de ayuda.
-
-Para más información [pulse aquí](https://github.com/IgnacioMorillas/DIU_2019-2020/tree/master/P1)
-
+>>> - Valoración final de ErrantT:69
+>>> - Comentario sobre la valoración:En general la web cumple con las principales características y metas que se persiguen.La información que se muestra es precisa y no es redundante.Los resultados de las búsquedas no son relevantes.El rendimiento de la página es buena. Existe un apartado que da un error que se corresponderá con una imagen problablemente, pero no dificulta su uso.La ubicación actual está clara . Contacto Directo con correo y telefono con la empresa. Pocas funcionalidades.
 
 ## Paso 2.Incontro UX Design
 
