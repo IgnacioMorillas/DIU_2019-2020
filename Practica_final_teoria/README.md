@@ -3,7 +3,7 @@ Teoría de Diseño Interfaces de Usuario 2019-20 (Coworking)
 
 Curso: 2019/20
 
-Proyecto:" COOTRABAJA ".
+Proyecto:" COOTRABAJO ".
 
 Descripción:" XXXXX " es una aplicación móvil a desarrollar diseña para encontrar un espacio de trabajo donde puedas desarrollar tu actividad profesional. La idea es la de facilitar al usuario(autonomo, emprendedor, trabajador,etc) lugares de espacio para desarrolar su actividad sin problema de permanencia de cierto tiempo, como un alquiler de una oficina, tampoco tendrá problema de equipamiento ya que se le facilitan en dichos establoecimientos. Otra ventaja es la de poder ir a distintas instalaciones situadas en lugares distintos lo que le sirve para cambiar de aire, ademas de al compartir entorno con otros profesionales potencia el surgimineto de nuevas ideas y ideas de negocio ya que no están penados para un unico perfil profesional. queremops promober la interacción entre los profesionales presentes.
 
@@ -160,3 +160,32 @@ El logotipo final para este proyecto se ha elegido el siguiente creado con (http
 
 Se trata de elementos que facilitan la usabilidad y legibilidad de la app y si están bien empleados repercutirán de forma positiva sobre nuestra app de cara al usuario.
 El color debe usarse con moderación y seguir una lógica. Una app llena de colores sin jerarquía, no tendrá el mismo efecto que una app con 2-3 colores que definen los valores de la marca y bien estructurados. Podríamos decir lo mismo de la elección tipográfica, no podemos esperar que la app atraiga a usuarios teniendo una sola tipografía sin diferenciar los títulos del texto, ni usando 3 tipografías antagónicas, ya que acabarían dificultando la lectura, lo que hará que el usuario ya no quiera usar la app o quiera eliminarla.
+
+## Propuesta de elementos de diseño o patrones a usar
+
+Decisiones sobre la tipografía:
+
+Para facilitar la lectura vamos a optar por una tipografía como Open Sans.Un ejemplo de ellos serían estos:
+
+![Método UX](https://github.com/IgnacioMorillas/DIU_2019-2020/blob/master/img/open.png)
+
+Decisiones sobre la paleta de colores:
+
+No hablamos de leer textos o libros, sino de ser lógicos con la identidad de la marca. Por una parte, la gama cromática a escoger debería mostrar cualitativamente su personalidad. Calma, seriedad, profesionalidad, tecnología, entretenimiento son palabras que suelen ser adjudicadas a diferentes marcas y deberían poder representarse mediante una paleta de colores.
+
+Por ejemplo:
+Azul: tranquilidad, seguridad, confianza, sanidad, lealtad
+Naranja: coraje, simpatía, éxito
+Dorado: riqueza, sabiduría, prosperidad, tradicionalismo, valor
+
+Se recomienda no usar un máximo de 3 colores primarios y mantener siempre el equilibrio cromático.
+Usar los contrastes para resaltar aquellas cuestiones mas relevantes.
+Para poder organizar y determinar la cantidad de color en una app se recomienda usar una proporción de color en pantalla de 60-30-10.
+
+En nuestro caso hemos seleccionado la siguiente paleta de colores, ya que buscamos que la aplicación sea acogedora ya que se va a tratar de una aplicación que requiere contacto social, por lo que queremos transmitir una sensación acogedora.
+
+Esta combinación viva de tonos cálidos y fríos se ve espectacular y contrastante.
+El aguamarina, el celeste, el naranja y el amarillo crean una gama de colores naturales.
+Crearán un ambiente cálido y acogedor.
+
+![Método UX](https://github.com/IgnacioMorillas/DIU_2019-2020/blob/master/img/paleta.png)
