@@ -19,7 +19,7 @@ Las ideas vamos a diseñar o redefinir de las páginas anteriores:
 
 Logotipo:![Método UX](https://github.com/IgnacioMorillas/DIU_2019-2020/blob/master/img/loogojeje.PNG)
 
-Miembros
+Miembros y repositorio del trabajo:
  * :bust_in_silhouette:   https://github.com/IgnacioMorillas/DIU_2019-2020/tree/master/Practica_final_teoria     :octocat:   
 -----
 
