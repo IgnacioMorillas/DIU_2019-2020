@@ -70,7 +70,7 @@ Entre las aplicaciones y páginas web que hemos visto las que más se adaptan me
 
 ![foto2](https://github.com/IgnacioMorillas/DIU_2019-2020/blob/master/img/sbc.PNG)
 
-![Método UX](https://github.com/IgnacioMorillas/DIU_2019-2020/blob/master/img/sbc.PNG) 1.d Usability Review
+![Método UX](https://github.com/IgnacioMorillas/DIU_2019-2020/blob/master/img/usabilityReview.png) 1.d Usability Review
 ----
 
 >>> - Enlace al documento:
