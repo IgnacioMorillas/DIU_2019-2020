@@ -61,7 +61,7 @@ Entre las aplicaciones y páginas web que hemos visto las que más se adaptan me
 
 >>>Hemos creado a Noelia, la cual es una persona bastante tímida, y que además no está iniciada en el mundo de estas nuevas plataformas por lo tanto le es difícil hacer esta tarea además de que sus circunstancias familiares no la da mucho margen de tiempo libre.
 
-![foto2](https://github.com/IgnacioMorillas/DIU_2019-2020/blob/master/img/Noelia2.png)
+![foto2](https://github.com/IgnacioMorillas/DIU_2019-2020/blob/master/img/NOEL1.png)
 
 ![Método UX](https://github.com/IgnacioMorillas/DIU_2019-2020/blob/master/img/JourneyMap.png) 1.c User Journey Map
 ----
