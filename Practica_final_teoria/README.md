@@ -167,7 +167,7 @@ Decisiones sobre la tipografía:
 
 Para facilitar la lectura vamos a optar por una tipografía como Open Sans.Un ejemplo de ellos serían estos:
 
-![Método UX](https://github.com/IgnacioMorillas/DIU_2019-2020/blob/master/img/open.png)
+![Método UX](https://github.com/IgnacioMorillas/DIU_2019-2020/blob/master/P3/img/open.png)
 
 Decisiones sobre la paleta de colores:
 
@@ -188,4 +188,4 @@ Esta combinación viva de tonos cálidos y fríos se ve espectacular y contrasta
 El aguamarina, el celeste, el naranja y el amarillo crean una gama de colores naturales.
 Crearán un ambiente cálido y acogedor.
 
-![Método UX](https://github.com/IgnacioMorillas/DIU_2019-2020/blob/master/img/paleta.png)
+![Método UX](https://github.com/IgnacioMorillas/DIU_2019-2020/blob/master/P3/img/paleta.png)
