@@ -59,7 +59,7 @@ Entre las aplicaciones y páginas web que hemos visto las que más se adaptan me
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>>Por último, también hemos creado a [Noelia](https://github.com/IgnacioMorillas/DIU_2019-2020/tree/master/P1), Es cual es una persona bastante tímida, y que además no está iniciada en el mundo de estas nuevas plataformas por lo tanto le es difícil hacer esta tarea además de que sus circunstancias familiares no la da mucho margen de tiempo libre.
+>>>Por último, también hemos creado a [Noelia](https://github.com/IgnacioMorillas/DIU_2019-2020/P1), Es cual es una persona bastante tímida, y que además no está iniciada en el mundo de estas nuevas plataformas por lo tanto le es difícil hacer esta tarea además de que sus circunstancias familiares no la da mucho margen de tiempo libre.
 
 ![foto2](https://github.com/IgnacioMorillas/DIU_2019-2020/tree/master/P1/NOEL1.png)
 
