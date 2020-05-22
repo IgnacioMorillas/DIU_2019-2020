@@ -5,27 +5,22 @@ Curso: 2019/20
 
 Proyecto:" XXXXX ".
 
-Descripción:" XXXXX " es una aplicación móvil a desarrollar diseña para encontrar un espacio de trabajo donde puedas desarrollar tu actividad profesional. La idea es la de facilitar al usuario(autonomo, emprendedor, trabajador,etc) lugares de espacio para desarrolar su actividad sin problema de permanencia de cierto tiempo, como un alquiler de una oficina, tampoco tendrá problema de equipamiento ya que se le facilitan en dichos establoecimientos. Otra ventaja es la de poder ir a distintas instalaciones situadas en lugares distintos lo que le sirve para cambiar de aire, ademas de al compartir entorno con otros profesionales potencia el surgimineto de nuevas ideas y ideas de negocio ya que no están penados para un unico perfil profesional.
+Descripción:" XXXXX " es una aplicación móvil a desarrollar diseña para encontrar un espacio de trabajo donde puedas desarrollar tu actividad profesional. La idea es la de facilitar al usuario(autonomo, emprendedor, trabajador,etc) lugares de espacio para desarrolar su actividad sin problema de permanencia de cierto tiempo, como un alquiler de una oficina, tampoco tendrá problema de equipamiento ya que se le facilitan en dichos establoecimientos. Otra ventaja es la de poder ir a distintas instalaciones situadas en lugares distintos lo que le sirve para cambiar de aire, ademas de al compartir entorno con otros profesionales potencia el surgimineto de nuevas ideas y ideas de negocio ya que no están penados para un unico perfil profesional. queremops promober la interacción entre los profesionales presentes.
 
 Las ideas vamos a diseñar o redefinir de las páginas anteriores:
 
-    -Es que queremos que los grupos prevalezcan en el tiempo ya que queremos crear vínculos entre los integrantes.
+    -Habilitar horario nocturno: ya que hay trabajadores que cerca de fechas limite quedrán echar mas horas, o por que en esa franja rindan mejor.
 
-    -Un calendario en el que podamos ver de forma mas visual las actividades inscritos.
+    -Acceso a lista de profesionales presentes en tu franja horaria: por si te interesa mas asisitir a una franja hoaria concreta para tener contacto con un campo concreto de profesionales.
 
-    -Implementación de bonos o promociones para los usuarios.
+    -Implementanción de bonos para almorzar en los establecimientos de la zaona, o comida adomicilio.
 
-    -Un modo premium que te libre de ciertos pagos y acceso a contenido exclusivo.
-
-    -Un monedero para llevar un control de tus gastos.
-
-    -Un modo oscuro.
+    -Lista de profesionales, catalogadas por area proesional para busqueda de gente con la que trabajar o se necesite de su servicio.
 
 Logotipo:![Método UX](img/fotologo.png)
 
 Miembros
- * :bust_in_silhouette:   https://github.com/salva12345678/DIU     :octocat:     
- * :bust_in_silhouette:   https://github.com/IgnacioMorillas/DIU_2019-2020     :octocat:   
+ * :bust_in_silhouette:   https://github.com/IgnacioMorillas/DIU_2019-2020/tree/master/Practica_final_teoria     :octocat:   
 -----
 
 En esta práctica estudiaremos un caso de plataforma de economía colaborativa y realizaremos una propuesta para su diseño Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist)
@@ -40,17 +35,33 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Entre las aplicaciones y páginas web que hemos visto las que más se adaptan mejor a una experiencia de ocio son [Meetup-Language](https://www.meetup.com/es-ES/find/language/) y [Hi uTandem](https://www.facebook.com/Hiutandemapp/).Entre estas dos se ha elegido [Meetup-Language](https://www.meetup.com/es-ES/find/language/) dado que está disponible en Android y no muestra problemas "graves".
+>Entre las páginas web que hemos que se nos ha proporcionado como referencia son [ErrantT](https://www.errant.es/es/) y [Cubikate](https://cubikate.es/).
 
-Para más información sobre las otras plataformas  en el Análisis de la Competencia [pulse aquí](https://github.com/IgnacioMorillas/DIU_2019-2020/tree/master/P1)
+|EMPRESAS                        | ErrantT         | Cubikate |
+| :------:                       | :------:        | :------: |
+| Lista de Pecios                | SI              |  No      |
+| Presupestos según necesidades  | NO              |  SI      |
+| Más de un idiomas              | SI              |  NO      |
+| web                            | SI              |  SI      |
+| Caracteristicas Basicas de la oficiana   | SI              |  NO      |
+| Ubicaciones                    | SI              |  SI      |
+| Contacto                       | SI              |  SI      |
+| Registro web                   | NO              |  NO      |
+| Oficina virtual                | NO              |  SI      |
+| Salas para reuniones           | NO              |  SI      |
+| Blog                           | SI              |  NO      |
+| Redes Sociales                 | SI              |  SI      |
+| Buscador(lupa)                 | NO              |  SI      |
+| Espacio para grabaciones       | SI              |  NO      |
+
+Entre las aplicaciones y páginas web que hemos visto las que más se adaptan mejor a mi idea es [ErrantT](https://www.errant.es/es/), ya que dispone de mas oficinas y ya traen un equipamiento base y su uso va por tarifa de jornadas por lo que lo ahce un lugar ocasional.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>>En primer lugar hemos creado a [Manuel](https://github.com/IgnacioMorillas/DIU_2019-2020/tree/master/P1),Una persona con amplias capacidades pero con poca iniciativa en el mundo de las redes sociales y en este sentido Manuel se plantea como un colectivo de la plataforma pues uno de sus retos ya sea por trabajo u ocio le hacen usar esta aplicación.
-
 >>>Por último, también hemos creado a [Noelia](https://github.com/IgnacioMorillas/DIU_2019-2020/tree/master/P1), Es cual es una persona bastante tímida, y que además no está iniciada en el mundo de estas nuevas plataformas por lo tanto le es difícil hacer esta tarea además de que sus circunstancias familiares no la da mucho margen de tiempo libre.
 
+![foto2](https://github.com/IgnacioMorillas/DIU_2019-2020/tree/master/P1/NOEL1.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
