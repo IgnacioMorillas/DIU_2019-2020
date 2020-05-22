@@ -86,55 +86,73 @@ Entre las aplicaciones y páginas web que hemos visto las que más se adaptan me
 ![Método UX](https://github.com/IgnacioMorillas/DIU_2019-2020/blob/master/img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
-En la malla receptora de información que hemos recopilado teniendo en cuenta las buenas características de la web que analizamos en la practica 1,las dificultades que encontraron nuestros usuarios que gracias a ese punto de vista vimos que podían mejorarse y algunas sugerencias para implementar nuevas funcionalidades,llevar a cabo una crítica constructiva centrándonos en los errores críticos que hemos analizado e ideas aportadas por los desarrolladores donde se corregirían funcionalidades y aportar propuestas de valor como es el sistema de bonificación por la asistencia de los eventos en el ámbito de los idiomas ademas de buscar una simbiosis entre los tres protagonistas principales como el usuario,el profesional y el establecimiento para que se beneficien y cooperen.    
+En la malla receptora de información que hemos recopilado teniendo en cuenta las buenas características de la web que analizamos en la practica 1,las dificultades que encontraron nuestros usuarios que gracias a ese punto de vista vimos que podían mejorarse y algunas sugerencias para implementar nuevas funcionalidades,llevar a cabo una crítica constructiva centrándonos en los errores críticos que hemos analizado e ideas aportadas por los desarrolladores donde se corregirían funcionalidades y aportar propuestas de valor como las que podríamos desarollar:
+- la capacidad de acceder a cualquier establecimiento independientemente de su localización.   
+- Lista de profesionales por sector.
+- disponibilidad de plazas.
+- soporte de ayuda.
+- acumulación de horas no consumidas.
 
-Para ver la malla receptora de información [pulse aquí](https://github.com/IgnacioMorillas/DIU_2019-2020/tree/master/P2)
+- Feedback Capture Grid: Malla Receptora De Información.
 
+  | Interesante                                                          | Críticas                                          |
+  | :------:                       | :------:        |
+  | 1.Información precisa y concisa.                                     | 1.Error a la hora de recargar una página .        |       
+  | 2.tarifas a media y jornadas completas.                              | 2.No hay ayuda                                    |      
+  | 3.Videos promocionales                                               | 3.Especificar un poco que escribir en el correo   |
+  | 4.Capacidad para grabación                                           | 4.Mas idiomas                                     |
+  | __Preguntas__                                                        | __Nuevas ideas__                                  |
+  | 1.Ir con mi equipo de desarrollo                                     | 1.Consulta de disponibilidad de plazas            |
+  | 2.Poner claro donde está el servicio técnico.                        | 2.lista de profesionales por sector               |        
+  | 3.Capacidad de reserva para dar conferencias con gente exterior.     | 3.Capacidad de acceder a cualquier establecimiento|
+  | 4.Chat de ayuda que responda a cuestiones                            | 4.Un soporte de ayuda.                            |
+  | 5.No hay ninguna guía ni video para principiantes.                   | 5.acumulación de horas no consumidas              |    
+  | 6.Una bolsa de empleo                                                | 6.Un tutorial guiado.                             |
+  |                                                                     | 7.Acceso a bonos para comer en las cercanias      |
 
 ![Método UX](https://github.com/IgnacioMorillas/DIU_2019-2020/blob/master/img/Sitemap.png) 2.b Tasks & Sitemap
 -----
 
 Entre las dos posibilidades nos hemos decidido por por hacer la matriz de tareas para analizar los usuarios que van a usar la aplicación y las tareas principales para poder analizar la frecuencia de uso de las acciones y así poder situar las funcionalidades en la aplicación. Para todo esto se hará un ranking de estas funcionalidades pero también viendo otros aspectos ya que habrá algunas funcionalidades que solo usará uno de los tantos tipos de usuarios que hay.
 
-Para ver la matriz de usuario y tareas [pulse aquí](https://github.com/IgnacioMorillas/DIU_2019-2020/tree/master/P2)
+|GRUPOS DE USUARIOS              | Usuario         |
+| :------:                       | :------:        |
+| Buscar.                        | Alto            |
+| Abonar Dinero.                 | Medio           |
+| Consultar Correo.              | Medio-Alto      |
+| Consultar chat.                | Alto            |
+| Enviar Correo.                 | alto            |
+| Consultar horas no consumidas. | alto            |
+| Consultar profesionales        | Medio           |
+| Consultar disponibiliodad.     | alto            |
+| reservar plaza.                | Alto            |
+| Consultar establecimiento.     | alto            |
+| Cambiar idioma.                | Bajo            |
+| Consultar dinero.              | Bajo            |
+| Consultar ayuda.               | Bajo            |
+| Iniciar Sesión.                | Bajo            |
+| Dejar de asistir.              | Bajo            |
+| Registrarse.                   | bajo            |
+| Introducir las credenciales    | Bajo            |
 
 ![Método UX](https://github.com/IgnacioMorillas/DIU_2019-2020/blob/master/img/labelling.png) 2.c Labelling
 ----
 
-Para una mayor comodidad se ha creado una jerarquía principal para tener una vista principal y  luego poder analizar cada sector por separado.
-
-![Método UX](https://github.com/IgnacioMorillas/DIU_2019-2020/blob/master/img/jerarquia_1.png)
-
-Para ver los diagramas y su correspondiente explicación [pulse aquí](https://github.com/IgnacioMorillas/DIU_2019-2020/tree/master/P2)
-
+Debido al tiempo no lo he desarollado. 
 
 ![Método UX](https://github.com/IgnacioMorillas/DIU_2019-2020/blob/master/img/Wireframes.png) 2.d Wireframes
 -----
 
-Para esta parte hemos desarrollado una serie de bocetos sobre las distintas partes de la interfaz.Para tener una mayor organización y podamos entender el flujo que sigue se hará un diagrama de flujo de los bocetos.Esta aplicación se ha diseñado de tal forma que se pueda llevar a cabo su implementación tanto en android o ios.
+Para esta parte hubiesemos desarrollado una serie de bocetos sobre las distintas partes de la interfaz. Para tener una mayor organización y podamos entender el flujo que sigue se haría un diagrama de flujo de los bocetos.Esta aplicación se diseñaría de tal forma que se pueda llevar a cabo su implementación tanto en android o ios.
 
-![Método UX](https://github.com/IgnacioMorillas/DIU_2019-2020/blob/master/img/diagrama.png)
-
-Para ver los bocetos de la interfaz [pulse aquí](https://github.com/IgnacioMorillas/DIU_2019-2020/tree/master/P2)
-
-
-## Paso 3. Mi equipo UX-Case Study
-
-![Método UX](https://github.com/IgnacioMorillas/DIU_2019-2020/blob/master/img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
------
-
-Es una aplicación cuyo objetivo es acercar a los artistas al público ofreciendo información sobre ellos y sus obras.En esta parte hacemos una reflexión de los aspectos más importantes que hemos visto en en el desarrollo de [MuseMap](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) como la idea de hacer encuestas y posteriormente hacer entrevistas y demás ideas originales.
-
-Para ver la reflexión [pulse aquí](https://github.com/IgnacioMorillas/DIU_2019-2020/tree/master/P3)
-
+## Paso 3.
 
 ## ![Método UX](https://github.com/IgnacioMorillas/DIU_2019-2020/blob/master/img/landing-page.png)  3.b Logotipo
 
-El logotipo final para este proyecto se ha elegido el siguiente:
+El logotipo final para este proyecto se ha elegido el siguiente creado con (https://www.brandcrowd.com/maker):
 
-![Método UX](https://github.com/IgnacioMorillas/DIU_2019-2020/blob/master/img/fotologo.png)
+![Método UX](https://github.com/IgnacioMorillas/DIU_2019-2020/blob/master/img/descargalogo.png)
 
-Para más información [pulse aquí](https://github.com/IgnacioMorillas/DIU_2019-2020/tree/master/P3)
 
 
 
@@ -142,18 +160,3 @@ Para más información [pulse aquí](https://github.com/IgnacioMorillas/DIU_2019
 
 Se trata de elementos que facilitan la usabilidad y legibilidad de la app y si están bien empleados repercutirán de forma positiva sobre nuestra app de cara al usuario.
 El color debe usarse con moderación y seguir una lógica. Una app llena de colores sin jerarquía, no tendrá el mismo efecto que una app con 2-3 colores que definen los valores de la marca y bien estructurados. Podríamos decir lo mismo de la elección tipográfica, no podemos esperar que la app atraiga a usuarios teniendo una sola tipografía sin diferenciar los títulos del texto, ni usando 3 tipografías antagónicas, ya que acabarían dificultando la lectura, lo que hará que el usuario ya no quiera usar la app o quiera eliminarla.
-
-Para más información [pulse aquí](https://github.com/IgnacioMorillas/DIU_2019-2020/tree/master/P3)
-
-
-## ![Método UX](https://github.com/IgnacioMorillas/DIU_2019-2020/blob/master/img/mockup.png)  3.d Video
-
-
-Para más información [pulse aquí](https://github.com/IgnacioMorillas/DIU_2019-2020/tree/master/P3)
-
-
-## ![Método UX](https://github.com/IgnacioMorillas/DIU_2019-2020/blob/master/img/mockup.png)  3.e Conclusión final.
-
-Reflexión de como nos ha influido positivamente las practicas y que nos ha ayudado a tener otra perspectiva sobre la experiencia de usuario.
-
-Para más información [pulse aquí](https://github.com/IgnacioMorillas/DIU_2019-2020/tree/master/P3)
