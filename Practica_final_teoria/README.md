@@ -68,7 +68,7 @@ Entre las aplicaciones y páginas web que hemos visto las que más se adaptan me
 
 >>> Problema con uso de otra instalación. Aquí se nos presenta la imposibilidad de usar la tarifa contratada en otra instalación en otra cidudad.
 
-![Método UX](https://github.com/IgnacioMorillas/DIU_2019-2020/blob/master/img/sbc.png) 1.d Usability Review
+![Método UX](https://github.com/IgnacioMorillas/DIU_2019-2020/blob/master/img/sbc.PNG) 1.d Usability Review
 ----
 
 >>> - Enlace al documento:
