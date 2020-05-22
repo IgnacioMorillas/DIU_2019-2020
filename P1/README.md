@@ -52,6 +52,8 @@ El problema de Manuel con el ingles.
 
 La primera historia trata sobre nuestro amigo Manuel que para aprender ingles busca en páginas web hasta dar con la acertada(recomendada por un amigo) y como la página se le pone en ingles pide ayuda al servicio técnico que tarda bastante en responder y que al final le pide ayuda a su amigo.
 
+historia de que se tienen que ir a otro lugar y no le dejan acceder aunque haya pagado en otra zona.
+
 ![foto3](HISTO1.png)
 
 Encuentro por sorpresa con su ex.

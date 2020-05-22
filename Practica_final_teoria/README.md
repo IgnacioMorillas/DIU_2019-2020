@@ -59,18 +59,16 @@ Entre las aplicaciones y páginas web que hemos visto las que más se adaptan me
 ![Método UX](https://github.com/IgnacioMorillas/DIU_2019-2020/blob/master/img/Persona.png) 1.b Persona
 -----
 
->>>Por último, también hemos creado a Noelia, Es cual es una persona bastante tímida, y que además no está iniciada en el mundo de estas nuevas plataformas por lo tanto le es difícil hacer esta tarea además de que sus circunstancias familiares no la da mucho margen de tiempo libre.
+>>>Hemos creado a Noelia, la cual es una persona bastante tímida, y que además no está iniciada en el mundo de estas nuevas plataformas por lo tanto le es difícil hacer esta tarea además de que sus circunstancias familiares no la da mucho margen de tiempo libre.
 
-![foto2](https://github.com/IgnacioMorillas/DIU_2019-2020/blob/master/P1/NOEL1.png)
+![foto2](https://github.com/IgnacioMorillas/DIU_2019-2020/blob/master/P1/Noelia2.png)
 
 ![Método UX](https://github.com/IgnacioMorillas/DIU_2019-2020/blob/master/img/JourneyMap.png) 1.c User Journey Map
 ----
 
->>> [El problema de Manuel con el ingles](https://github.com/IgnacioMorillas/DIU_2019-2020/tree/master/P1).Aquí se nos presenta el problema de la dificultad de cambiar de idioma.
+>>> Problema con uso de otra instalación. Aquí se nos presenta la imposibilidad de usar la tarifa contratada en otra instalación en otra cidudad.
 
->>> [Encuentro por sorpresa de Noelia con su ex](https://github.com/IgnacioMorillas/DIU_2019-2020/tree/master/P1).Aquí se nos presenta el problema de tener tu cuenta en modo público.
-
-![Método UX](img/usabilityReview.png) 1.d Usability Review
+![Método UX](https://github.com/IgnacioMorillas/DIU_2019-2020/blob/master/img/sbc.png) 1.d Usability Review
 ----
 
 >>> - Enlace al documento:
